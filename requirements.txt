@@ -1,6 +1,6 @@
-dash==2.6.0
+dash
 pandas
 numpy
 scikit-learn
-scipy
+scipy==1.10.1
 gunicorn
